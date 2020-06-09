@@ -1,0 +1,3 @@
+Jun 09 2020 06:23:02
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\wamp64\\www\\goutamboro\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
